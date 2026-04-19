@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Packaging outputs
+perspective_calibrator/build/
+perspective_calibrator/build_spec/
+perspective_calibrator/dist/
+perspective_calibrator/dist_*/
+perspective_calibrator/build_assets/*.ico
+
+# Runtime outputs
+perspective_calibrator/runtime/
+perspective_calibrator/Picture/
+perspective_calibrator/logs/
+perspective_calibrator/calibrator.log
+perspective_calibrator/run_stdout.log
+perspective_calibrator/run_stderr.log
